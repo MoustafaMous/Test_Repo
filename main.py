@@ -1,4 +1,4 @@
 def main():
-  print("<Moustafa Moussa>") 
+  print(name) 
 
   main()
